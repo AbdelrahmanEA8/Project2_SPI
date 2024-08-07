@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Aug  4 19:27:23 2024
+# Process ID: 10368
+# Current directory: D:/Digital IC Design/Diploma/Project2_SPI/Single_Port_RAM
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8828 D:\Digital IC Design\Diploma\Project2_SPI\Single_Port_RAM\Single_Port_RAM.xpr
+# Log file: D:/Digital IC Design/Diploma/Project2_SPI/Single_Port_RAM/vivado.log
+# Journal file: D:/Digital IC Design/Diploma/Project2_SPI/Single_Port_RAM\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Digital IC Design/Diploma/Project2_SPI/Single_Port_RAM/Single_Port_RAM.xpr}
+update_compile_order -fileset sources_1
+open_run synth_1 -name synth_1
+close_design
+synth_design -rtl -name rtl_1
+open_run synth_1 -name synth_1

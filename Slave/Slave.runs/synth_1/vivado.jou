@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Aug  5 09:12:51 2024
+# Process ID: 4432
+# Current directory: D:/Digital IC Design/Diploma/Project2_SPI/Slave/Slave.runs/synth_1
+# Command line: vivado.exe -log SPI_SLAVE.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SPI_SLAVE.tcl
+# Log file: D:/Digital IC Design/Diploma/Project2_SPI/Slave/Slave.runs/synth_1/SPI_SLAVE.vds
+# Journal file: D:/Digital IC Design/Diploma/Project2_SPI/Slave/Slave.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source SPI_SLAVE.tcl -notrace

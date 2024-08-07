@@ -1,0 +1,36 @@
+{D:/Digital IC Design/Diploma/Project2_SPI/Slave_TB.v} {1 {vlog -work work -vopt -stats=none {D:/Digital IC Design/Diploma/Project2_SPI/Slave_TB.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Slave_TB
+
+Top level modules:
+	Slave_TB
+
+} {} {}} {D:/Digital IC Design/Diploma/Project2_SPI/RAM_TB.v} {1 {vlog -work work -vopt -stats=none {D:/Digital IC Design/Diploma/Project2_SPI/RAM_TB.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RAM_TB
+
+Top level modules:
+	RAM_TB
+
+} {} {}} {D:/Digital IC Design/Diploma/Project2_SPI/Single_Port_RAM.v} {1 {vlog -work work -vopt -stats=none {D:/Digital IC Design/Diploma/Project2_SPI/Single_Port_RAM.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {D:/Digital IC Design/Diploma/Project2_SPI/Wrapper.v} {1 {vlog -work work -vopt -stats=none {D:/Digital IC Design/Diploma/Project2_SPI/Wrapper.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_Wrapper
+
+Top level modules:
+	SPI_Wrapper
+
+} {} {}} {D:/Digital IC Design/Diploma/Project2_SPI/SPI_Wrapper_TB.v} {1 {vlog -work work -vopt -stats=none {D:/Digital IC Design/Diploma/Project2_SPI/SPI_Wrapper_TB.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_Wrapper_TB
+
+Top level modules:
+	SPI_Wrapper_TB
+
+} {} {}}
